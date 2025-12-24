@@ -9,7 +9,9 @@
 I’m a **professional Full Stack Web Developer** specializing in **custom website development, React web applications, and scalable backend systems** for startups, SaaS products, and businesses.
 
 🌐 Website: https://nexede.com
+
 🛒 Fiverr: https://www.fiverr.com/s/vvRrGyq
+
 💼 Upwork: https://www.upwork.com/services/product/development-it-expert-fulll-stack-web-developer-react-js-nodejs-mongodb-front-end-1905206698410123869
 
 
